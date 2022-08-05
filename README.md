@@ -1,1 +1,1 @@
-# api-rest-adonisJS
+# Api Rest feita usando AdonisJS + SQLite
